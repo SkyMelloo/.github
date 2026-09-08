@@ -37,3 +37,7 @@ your own compatible tools on top of it.
 |---|---|
 | **[sky.melloo.me](https://sky.melloo.me)** | The main site - profiles, stats, and account tools. |
 | **[status](https://github.com/SkyMelloo/status)** | Live status page for every SkyMelloo service. |
+
+<br>
+
+<sub>Yes, I use AI tools to help build this. I'm one person maintaining a mod, a website, a developer API, and the infrastructure behind all of it - not a team. Use what gets the job done.</sub>
