@@ -40,4 +40,4 @@ your own compatible tools on top of it.
 
 <br>
 
-<sub>Yes, I use AI tools to help build this. I'm one person maintaining a mod, a website, a developer API, and the infrastructure behind all of it - not a team. Use what gets the job done.</sub>
+<sub>Yes, I use AI tools to help build this. I'm one person maintaining a mod, a website, a developer API, and the infrastructure behind all of it - not a team.</sub>
