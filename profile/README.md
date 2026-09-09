@@ -45,7 +45,3 @@ your own compatible tools on top of it.
 - **[Terms of Service](https://sky.melloo.me/terms)** - the rules for using the site, the API, and the mod.
 - **[Privacy Policy](https://sky.melloo.me/privacy)** - what data is collected and why.
 - **[Imprint](https://sky.melloo.me/imprint)** - legal operator information.
-
-<br>
-
-<sub>Yes, I use AI tools to help build this. I'm one person maintaining a mod, a website, a developer API, and the infrastructure behind all of it - not a team.</sub>
