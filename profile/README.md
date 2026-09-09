@@ -5,7 +5,9 @@
 <br><br>
 
 [![Website](https://img.shields.io/badge/sky.melloo.me-visit-ff6ec7?style=for-the-badge)](https://sky.melloo.me)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://sky.melloo.me/discord)
 [![Status](https://img.shields.io/badge/status-live-brightgreen?style=for-the-badge)](https://github.com/SkyMelloo/status)
+[![Contact](https://img.shields.io/badge/contact-us-ffb3e6?style=for-the-badge)](https://sky.melloo.me/contact)
 
 </div>
 
@@ -37,6 +39,17 @@ your own compatible tools on top of it.
 |---|---|
 | **[sky.melloo.me](https://sky.melloo.me)** | The main site - profiles, stats, and account tools. |
 | **[status](https://github.com/SkyMelloo/status)** | Live status page for every SkyMelloo service. |
+
+### Community & legal
+
+| | |
+|---|---|
+| **[Discord](https://sky.melloo.me/discord)** | Join the community server - support, updates, and feedback. |
+| **[Contact](https://sky.melloo.me/contact)** | Reach out directly for anything not covered by Discord or a bug report. |
+| **[Community Guidelines](https://sky.melloo.me/community/guidelines)** | The conduct rules for the Discord, forum, and every other community space. |
+| **[Terms of Service](https://sky.melloo.me/terms)** | The rules for using the site, the API, and the mod. |
+| **[Privacy Policy](https://sky.melloo.me/privacy)** | What data is collected and why. |
+| **[Imprint](https://sky.melloo.me/imprint)** | Legal operator information. |
 
 <br>
 
