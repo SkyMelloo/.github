@@ -21,40 +21,30 @@ your own compatible tools on top of it.
 
 ### Mods
 
-| | |
-|---|---|
-| **[SkyMelloo](https://github.com/SkyMelloo/SkyMelloo)** | The main Fabric client mod for Hypixel SkyBlock. |
-| **[MellooEssentials](https://github.com/SkyMelloo/MellooEssentials)** | Lightweight core mod - the foundation SkyMelloo builds on. |
+- **[SkyMelloo](https://github.com/SkyMelloo/SkyMelloo)** - the main Fabric client mod for Hypixel SkyBlock.
+- **[MellooEssentials](https://github.com/SkyMelloo/MellooEssentials)** - lightweight core mod, the foundation SkyMelloo builds on.
 
 ### Developer tools
 
-| | |
-|---|---|
-| **[developer-api](https://github.com/SkyMelloo/developer-api)** | Reference docs for building your own compatible client on the SkyMelloo/MellooEssentials API. |
-| **[api-client](https://github.com/SkyMelloo/api-client)** | Java client library for that API - request queueing, batching, backoff built in. |
+- **[developer-api](https://github.com/SkyMelloo/developer-api)** - reference docs for building your own compatible client on the SkyMelloo/MellooEssentials API.
+- **[api-client](https://github.com/SkyMelloo/api-client)** - Java client library for that API, with request queueing, batching, and backoff built in.
 
 ### Website & infrastructure
 
-| | |
-|---|---|
-| **[sky.melloo.me](https://sky.melloo.me)** | The main site - profiles, stats, and account tools. |
-| **[status](https://github.com/SkyMelloo/status)** | Live status page for every SkyMelloo service. |
+- **[sky.melloo.me](https://sky.melloo.me)** - the main site: profiles, stats, and account tools.
+- **[status](https://github.com/SkyMelloo/status)** - live status page for every SkyMelloo service.
 
 ### Community
 
-| | |
-|---|---|
-| **[Discord](https://sky.melloo.me/discord/invite)** | Join the community server - support, updates, and feedback. |
-| **[Contact](https://sky.melloo.me/contact)** | Reach out directly for anything not covered by Discord or a bug report. |
-| **[Community Guidelines](https://sky.melloo.me/community/guidelines)** | The conduct rules for the Discord, forum, and every other community space. |
+- **[Discord](https://sky.melloo.me/discord/invite)** - join the community server for support, updates, and feedback.
+- **[Contact](https://sky.melloo.me/contact)** - reach out directly for anything not covered by Discord or a bug report.
+- **[Community Guidelines](https://sky.melloo.me/community/guidelines)** - the conduct rules for the Discord, forum, and every other community space.
 
 ### Legal
 
-| | |
-|---|---|
-| **[Terms of Service](https://sky.melloo.me/terms)** | The rules for using the site, the API, and the mod. |
-| **[Privacy Policy](https://sky.melloo.me/privacy)** | What data is collected and why. |
-| **[Imprint](https://sky.melloo.me/imprint)** | Legal operator information. |
+- **[Terms of Service](https://sky.melloo.me/terms)** - the rules for using the site, the API, and the mod.
+- **[Privacy Policy](https://sky.melloo.me/privacy)** - what data is collected and why.
+- **[Imprint](https://sky.melloo.me/imprint)** - legal operator information.
 
 <br>
 
