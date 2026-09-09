@@ -13,35 +13,81 @@
 
 <br>
 
-SkyMelloo started as a lightweight Fabric client mod for Hypixel SkyBlock. It's since grown to
-include a companion website with a public developer API, and a Java client library for building
-your own compatible tools on top of it.
+## hii :3
+
+SkyMelloo started as a small Fabric mod for Hypixel SkyBlock and then kinda kept growing.
+
+Now there's the main mod, some extra tools around it, a website, a public API and a Java client for anyone who wants to build stuff with it.
+
+Most things here are made because they sounded useful, fun, or both. :P
+
+---
+
+### 🎮 Mods
+
+**[SkyMelloo](https://github.com/SkyMelloo/SkyMelloo)**
+The main Fabric client mod for Hypixel SkyBlock, with a bunch of dungeon, party, profile and quality-of-life features.
+
+**[MellooEssentials](https://github.com/SkyMelloo/MellooEssentials)**
+A smaller core mod with shared features that SkyMelloo builds on.
+
+---
+
+### 🧩 Developer stuff
+
+**[developer-api](https://github.com/SkyMelloo/developer-api)**
+Docs and examples for using the SkyMelloo / MellooEssentials API.
+
+**[api-client](https://github.com/SkyMelloo/api-client)**
+A Java client for the API with things like request queueing, batching and automatic backoff already handled.
+
+---
+
+### 🌐 Website & other things
+
+**[sky.melloo.me](https://sky.melloo.me)**
+Profiles, stats, account tools and other SkyMelloo stuff.
+
+**[status](https://github.com/SkyMelloo/status)**
+Status page for SkyMelloo services in case something explodes.
+
+---
+
+### 💬 Community & support
+
+**[Discord](https://sky.melloo.me/discord/invite)**
+Come say hi, ask for help, report weird stuff or just hang around.
+
+**[Contact](https://sky.melloo.me/contact)**
+Not sure where to go? Start here, it points you the right way.
+
+**[Ask a Question](https://sky.melloo.me/ticket)**
+Open a private ticket with the team.
+
+**[Report a Bug](https://sky.melloo.me/report-bug)**
+Found something broken? Let us know.
+
+**[Report Content or a User](https://sky.melloo.me/contact)**
+Use the Report button in-app, or ask here if you can't find it.
+
+**[Community Guidelines](https://sky.melloo.me/community/guidelines)**
+Basically: don't be annoying to other people. The slightly longer version is here.
+
+**[Security](https://github.com/SkyMelloo/SkyMelloo/blob/main/SECURITY.md)**
+Found a vulnerability? Please report it responsibly, not in a public issue.
+
+---
+
+### 📜 boring but important stuff
+
+- [Terms of Service](https://sky.melloo.me/terms)
+- [Privacy Policy](https://sky.melloo.me/privacy)
+- [Imprint](https://sky.melloo.me/imprint)
 
 <br>
 
-### Mods
+<div align="center">
 
-- **[SkyMelloo](https://github.com/SkyMelloo/SkyMelloo)** - the main Fabric client mod for Hypixel SkyBlock.
-- **[MellooEssentials](https://github.com/SkyMelloo/MellooEssentials)** - lightweight core mod, the foundation SkyMelloo builds on.
+made with love <3
 
-### Developer tools
-
-- **[developer-api](https://github.com/SkyMelloo/developer-api)** - reference docs for building your own compatible client on the SkyMelloo/MellooEssentials API.
-- **[api-client](https://github.com/SkyMelloo/api-client)** - Java client library for that API, with request queueing, batching, and backoff built in.
-
-### Website & infrastructure
-
-- **[sky.melloo.me](https://sky.melloo.me)** - the main site: profiles, stats, and account tools.
-- **[status](https://github.com/SkyMelloo/status)** - live status page for every SkyMelloo service.
-
-### Community
-
-- **[Discord](https://sky.melloo.me/discord/invite)** - join the community server for support, updates, and feedback.
-- **[Contact](https://sky.melloo.me/contact)** - reach out directly for anything not covered by Discord or a bug report.
-- **[Community Guidelines](https://sky.melloo.me/community/guidelines)** - the conduct rules for the Discord, forum, and every other community space.
-
-### Legal
-
-- **[Terms of Service](https://sky.melloo.me/terms)** - the rules for using the site, the API, and the mod.
-- **[Privacy Policy](https://sky.melloo.me/privacy)** - what data is collected and why.
-- **[Imprint](https://sky.melloo.me/imprint)** - who's actually behind this thing.
+</div>
