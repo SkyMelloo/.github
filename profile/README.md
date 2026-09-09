@@ -44,4 +44,4 @@ your own compatible tools on top of it.
 
 - **[Terms of Service](https://sky.melloo.me/terms)** - the rules for using the site, the API, and the mod.
 - **[Privacy Policy](https://sky.melloo.me/privacy)** - what data is collected and why.
-- **[Imprint](https://sky.melloo.me/imprint)** - legal operator information.
+- **[Imprint](https://sky.melloo.me/imprint)** - who's actually behind this thing.
